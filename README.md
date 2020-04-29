@@ -3,6 +3,8 @@
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 Es un proyecto basado en Django **3.0.5** en el cual se implementa una barra de depuracion y ayuda llamada `debug-toolbar`
 
+[Django debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
+
 Como adicional se agregado una generacion de archivos log (solo como demo).
 
   - Descargar el proyecto
@@ -12,7 +14,7 @@ Como adicional se agregado una generacion de archivos log (solo como demo).
 
 ### Installation
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies, then migrations and finally start the server.
 
 ```sh
 $ (enviroment) pip install -r requirements.txt
