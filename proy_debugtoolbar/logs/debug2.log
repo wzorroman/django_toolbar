@@ -1,0 +1,56 @@
+DEBUG|28/Apr/2020 04:46:00|selector_events|23889|140537643505472|Using selector: EpollSelector
+DEBUG|28/Apr/2020 04:46:00|selector_events|23902|139812700677952|Using selector: EpollSelector
+INFO|28/Apr/2020 04:46:01|autoreload|23902|139812700677952|Watching for file changes with StatReloader
+ERROR|28/Apr/2020 04:46:11|views|23902|139812581500672|Mensaje de logger!
+INFO|28/Apr/2020 04:46:11|views|23902|139812581500672|The value of var is wilson
+WARNING|28/Apr/2020 04:46:12|log|23902|139812581500672|Not Found: /favicon.ico
+ERROR|28/Apr/2020 04:46:13|views|23902|139812581500672|Mensaje de logger!
+WARNING|28/Apr/2020 04:46:14|log|23902|139812581500672|Not Found: /favicon.ico
+ERROR|28/Apr/2020 04:46:19|views|23902|139812581500672|Mensaje de logger!
+INFO|28/Apr/2020 04:46:19|views|23902|139812581500672|The value of var is wilson
+INFO|28/Apr/2020 04:49:54|autoreload|23902|139812700677952|/home/wilson/proy_z_test/proy_debugtoolbar/proy_debugtoolbar/settings.py changed, reloading.
+"28/Apr/2020 04:49:55 | asyncio | DEBUG | __init__:54 | Using selector: EpollSelector"
+"28/Apr/2020 04:49:55 | django.utils.autoreload | INFO | run_with_reloader:598 | Watching for file changes with StatReloader"
+"28/Apr/2020 04:50:00 | almacen.views | ERROR | index:13 | Mensaje de logger!"
+"28/Apr/2020 04:50:00 | almacen.views | INFO | index:14 | The value of var is wilson"
+"28/Apr/2020 04:50:01 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:50:02 | almacen.views | ERROR | get_context_data:22 | Mensaje de logger!"
+"28/Apr/2020 04:50:03 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:52:51 | django.utils.autoreload | INFO | trigger_reload:222 | /home/wilson/proy_z_test/proy_debugtoolbar/almacen/views.py changed, reloading."
+"28/Apr/2020 04:52:52 | asyncio | DEBUG | __init__:54 | Using selector: EpollSelector"
+"28/Apr/2020 04:52:52 | django.utils.autoreload | INFO | run_with_reloader:598 | Watching for file changes with StatReloader"
+"28/Apr/2020 04:52:53 | django.utils.autoreload | INFO | trigger_reload:222 | /home/wilson/proy_z_test/proy_debugtoolbar/almacen/views.py changed, reloading."
+"28/Apr/2020 04:52:54 | asyncio | DEBUG | __init__:54 | Using selector: EpollSelector"
+"28/Apr/2020 04:52:54 | django.utils.autoreload | INFO | run_with_reloader:598 | Watching for file changes with StatReloader"
+"28/Apr/2020 04:52:59 | almacen.views | INFO | get_context_data:22 | Mensaje de informativo | 20!"
+"28/Apr/2020 04:52:59 | almacen.views | WARNING | get_context_data:23 | Mensaje de warning | 30!"
+"28/Apr/2020 04:52:59 | almacen.views | ERROR | get_context_data:24 | Mensaje de logger | 40!"
+"28/Apr/2020 04:52:59 | almacen.views | CRITICAL | get_context_data:25 | Mensaje critico Nivel | 50!"
+"28/Apr/2020 04:53:00 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:53:02 | almacen.views | ERROR | index:13 | Mensaje de logger!"
+"28/Apr/2020 04:53:02 | almacen.views | INFO | index:14 | The value of var is wilson"
+"28/Apr/2020 04:53:03 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:54:33 | almacen.views | INFO | get_context_data:22 | Mensaje de informativo | 20!"
+"28/Apr/2020 04:54:33 | almacen.views | WARNING | get_context_data:23 | Mensaje de warning | 30!"
+"28/Apr/2020 04:54:33 | almacen.views | ERROR | get_context_data:24 | Mensaje de logger | 40!"
+"28/Apr/2020 04:54:33 | almacen.views | CRITICAL | get_context_data:25 | Mensaje critico Nivel | 50!"
+"28/Apr/2020 04:54:35 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:54:46 | almacen.views | INFO | get_context_data:22 | Mensaje de informativo | 20!"
+"28/Apr/2020 04:54:46 | almacen.views | WARNING | get_context_data:23 | Mensaje de warning | 30!"
+"28/Apr/2020 04:54:46 | almacen.views | ERROR | get_context_data:24 | Mensaje de logger | 40!"
+"28/Apr/2020 04:54:46 | almacen.views | CRITICAL | get_context_data:25 | Mensaje critico Nivel | 50!"
+"28/Apr/2020 04:54:48 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:54:54 | almacen.views | ERROR | index:13 | Mensaje de logger!"
+"28/Apr/2020 04:54:54 | almacen.views | INFO | index:14 | The value of var is wilson"
+"28/Apr/2020 04:54:55 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 04:54:56 | almacen.views | INFO | get_context_data:22 | Mensaje de informativo | 20!"
+"28/Apr/2020 04:54:56 | almacen.views | WARNING | get_context_data:23 | Mensaje de warning | 30!"
+"28/Apr/2020 04:54:56 | almacen.views | ERROR | get_context_data:24 | Mensaje de logger | 40!"
+"28/Apr/2020 04:54:56 | almacen.views | CRITICAL | get_context_data:25 | Mensaje critico Nivel | 50!"
+"28/Apr/2020 04:54:57 | django.request | WARNING | log_response:228 | Not Found: /favicon.ico"
+"28/Apr/2020 05:02:08 | django.utils.autoreload | INFO | trigger_reload:222 | /home/wilson/proy_z_test/proy_debugtoolbar/proy_debugtoolbar/settings.py changed, reloading."
+"28/Apr/2020 05:02:09 | asyncio | DEBUG | __init__:54 | Using selector: EpollSelector"
+"28/Apr/2020 05:02:09 | django.utils.autoreload | INFO | run_with_reloader:598 | Watching for file changes with StatReloader"
+"28/Apr/2020 05:02:33 | django.utils.autoreload | INFO | trigger_reload:222 | /home/wilson/proy_z_test/proy_debugtoolbar/proy_debugtoolbar/settings.py changed, reloading."
+"28/Apr/2020 05:02:33 | asyncio | DEBUG | __init__:54 | Using selector: EpollSelector"
+"28/Apr/2020 05:02:34 | django.utils.autoreload | INFO | run_with_reloader:598 | Watching for file changes with StatReloader"
